@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1039174354738",
+    "firebase_url": "https://otplogin-77f35.firebaseio.com",
+    "project_id": "otplogin-77f35",
+    "storage_bucket": "otplogin-77f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039174354738:android:88b2037bdc3181c53e792b",
+        "android_client_info": {
+          "package_name": "com.rehan.otplogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039174354738-6k3ra41vvt5u3mfumq71b05r54an0sg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Usrw4a5Vof9g5ItrmBOd52R8FsQrQ3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039174354738-6k3ra41vvt5u3mfumq71b05r54an0sg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
